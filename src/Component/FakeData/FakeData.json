@@ -1,0 +1,88 @@
+[{
+    "id": 1,
+    "category": "coxsbazar",
+    "place_name": "Cox's Bazar",
+    "imgURL": "https://iili.io/2nP3Vj.png",
+    "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "hotel_info" : [{
+        "key": 1,
+        "hotel_name": "Hotel Sea Crown",
+        "hotel_details": "Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+        "price": 77,
+        "rating": 9.2,
+        "img": "https://iili.io/2nPFix.png"
+      }, {
+        "key": 2,
+        "hotel_name": "Laguna Beach Hotel & Resort",
+        "hotel_details": "Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+        "price": 74,
+        "rating": 8.4,
+        "img": "https://iili.io/2nPfKQ.png"
+      }, {
+        "key": 3,
+        "hotel_name": "Hotel Golden Hill",
+        "hotel_details": "Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+        "price": 87,
+        "rating": 8.9,
+        "img": "https://iili.io/2nPqlV.png"
+      }]
+  }, {
+    "id": 2,
+    "category": "sreemangal",
+    "place_name": "Sreemangal",
+    "imgURL": "https://iili.io/2nPnHP.png",
+    "description": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo.",
+    "hotel_info" : [{
+        "key": 1,
+        "hotel_name": "Green Leaf Rest House",
+        "hotel_details": "Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+        "price": 77,
+        "rating": 9.5,
+        "img": "https://iili.io/2nPFix.png"
+      }, {
+        "key": 2,
+        "hotel_name": "Hotel Marina Sreemangal",
+        "hotel_details": "Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+        "price": 74,
+        "rating": 8.8,
+        "img": "https://iili.io/2nPfKQ.png"
+      }, {
+        "key": 3,
+        "hotel_name": "Grand Sultan Tea Resort & Golf",
+        "hotel_details": "Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+        "price": 87,
+        "rating": 9.2,
+        "img": "https://iili.io/2nPqlV.png"
+      }]
+  }, {
+    "id": 3,
+    "category": "sundarban",
+    "place_name": "Sundarban",
+    "imgURL": "https://iili.io/2nPxOF.png",
+    "description": "Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti.",
+    "hotel_info" : [{
+        "key": 1,
+        "hotel_name": "Sundarban Eco Cottage",
+        "hotel_details": "Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+        "price": 77,
+        "rating": 8,
+        "img": "https://iili.io/2nPFix.png"
+      }, {
+        "key": 2,
+        "hotel_name": "Royal Sundarban Wild Resort",
+        "hotel_details": "Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+        "price": 74,
+        "rating": 8.4,
+        "img": "https://iili.io/2nPfKQ.png"
+      }, {
+        "key": 3,
+        "hotel_name": "Sundarban Jungle Mahal",
+        "hotel_details": "Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+        "price": 87,
+        "rating": 8.5,
+        "img": "https://iili.io/2nPqlV.png"
+      }]
+  }]
+
+
+

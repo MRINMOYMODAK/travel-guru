@@ -1,0 +1,15 @@
+.background{
+    padding-top: 20px; 
+    padding-bottom: 20px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url( './background.png');         
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.carousel-img{
+    width: 300px !important;
+    height: 400px !important;
+    border: 3px solid orange;
+    border-radius: 20px;
+    height: 600px;
+}

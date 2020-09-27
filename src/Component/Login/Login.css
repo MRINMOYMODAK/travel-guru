@@ -1,0 +1,41 @@
+.card{
+    border: 2px solid gray;
+    border-radius: 10px;
+}
+@media screen and (max-width: 800px) {
+    .card {
+      width: 80%;
+    }
+}
+@media screen and (min-width: 800px) {
+    .card {
+      width: 40%;
+    }
+}
+.google-icon{
+    width: 20px;
+}
+@media screen and (max-width: 800px) {
+    .sign-in-btn {
+      width: 80% !important;
+    }
+}
+@media screen and (min-width: 800px) {
+    .sign-in-btn {
+      width: 40% !important;
+    }
+}
+.sign-in-btn{
+    border-radius: 50px !important;
+}
+.icon-holder {
+    position:relative;
+}
+.icon-holder .icon {
+    position:absolute;
+    line-height: 24px;
+    top:50%;
+    margin-top: -12px;
+    left: 10px;
+}
+
